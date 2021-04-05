@@ -1,0 +1,53 @@
+.body-container {
+  background-color: white;
+  margin-bottom: 400px;
+  padding: 50px 100px;
+
+  hr {
+    width: 90%;
+  }
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 0.5fr;
+  grid-template-rows: 1fr;
+  gap: 0px 0px;
+  grid-template-areas: "project-anchor project-illustration";
+  height: 240px;
+}
+
+.project-anchor {
+  grid-area: project-anchor;
+  padding: 0 100px;
+  text-decoration: none;
+  color: black;
+
+  &:hover {
+    color: #FFAB91;
+  }
+
+  &:hover + .project-illustration {
+    opacity: 1;
+  }
+
+  hr {
+    width: 100px;
+    margin-left: 0;
+  }
+}
+
+.project-illustration {
+  opacity: 0;
+  grid-area: project-illustration;
+  margin: auto;
+  transition: visibility 0.5s, opacity 0.5s linear;
+
+  > svg > path {
+    fill: #050033;
+  }
+}
+
+.project-description {
+  text-align: center;
+}

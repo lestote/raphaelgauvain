@@ -1,24 +1,19 @@
 # raphaelgauvain
 
-## Project setup
-```
-npm install
-```
+## Ressources
+[Lottie WEB AirBNB](https://airbnb.io/lottie)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[Lottie CSS Tricks](https://css-tricks.com/animating-with-lottie/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Overall
+[Mistakes and management - Sarah Drasner](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/)
 
-### Lints and fixes files
-```
-npm run lint
-```
+https://smilte.qodeinteractive.com/portfolio-minimal/
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://flaviocopes.com/flexbox/#container-properties
+
+https://www.instagram.com/ui.viks/
+https://www.instagram.com/p/CCQ_2O-ifiw/
+
+#C7D8F5
+#C7D8F5
