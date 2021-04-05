@@ -1,0 +1,10 @@
+{
+  "title" : "Volkswagen",
+  "url": "https://www.volkswagen.fr/fr.html",
+  "medias" : [
+    "/images/seat/illustration-une.png"
+  ],
+  "description" : {
+    "context": "L'objectif de ce client était d'intégrer de nouveaux composants HTML à sa librairie.<br>J'ai donc créer divers élements visuels afin d'aider le parcours client."
+  }
+}

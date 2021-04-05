@@ -1,0 +1,10 @@
+{
+  "title" : "Seat",
+  "url": "https://www.seat.fr/",
+  "medias" : [
+    "/images/seat/illustration-une.png"
+  ],
+  "description" : {
+    "context": "L'objectif de ce client est d'intégrer de nouveaux composants HTML à sa librairie.<br>Je créé donc régulièrement des composants permettant de faciliter les parcours client."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title" : "Accor Live Limitless",
+  "url": "https://all.accor.com/",
+  "medias" : [
+    "/images/accor/apercu-couloir-all.png",
+    "/images/accor/apercu-couloir-map-all.png"
+  ],
+  "description" : {
+    "context": "En mission depuis maintenant 3 ans, le but initial était de refondre l'ancien couloir sur une technologie plus récente.<br>L'enjeux business de ce projet allant jusq'à 3 millions d'euros de CA/jour j'ai eu à affronter de nombreux challenges pour pouvoir répondre aux besoins du projet."
+  }
+}

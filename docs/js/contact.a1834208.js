@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["contact"],{b8fa:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},c=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"app__content"},[n("h1",[t._v("Me conacter")]),n("p",[t._v("raphael.gauvain@gmail.com")])])}],l=n("2877"),r={},s=Object(l["a"])(r,a,c,!1,null,null,null);e["default"]=s.exports}}]);
+//# sourceMappingURL=contact.a1834208.js.map
